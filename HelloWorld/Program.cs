@@ -10,7 +10,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            //make memes not drugs kids
+            //make memes not drugs kids wttfff sir
             Console.WriteLine("Sup Fam");
         }
     }
