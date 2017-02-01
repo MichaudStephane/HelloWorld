@@ -11,7 +11,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             //make memes not drugs kids
-            Console.WriteLine("HelloWorld");
+            Console.WriteLine("Sup Fam");
         }
     }
 }
