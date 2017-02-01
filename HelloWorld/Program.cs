@@ -12,6 +12,41 @@ namespace HelloWorld
         {
             //make memes not drugs kids
             Console.WriteLine("Sup Fam");
+
+            //make memes not drugs kids
+            //make memes not drugs kids
+
+            //make memes not drugs kids
+            //make memes not drugs kids
+            //make memes not drugs kids
+            //make memes not drugs kids
+            //make memes not drugs kids
+            //make memes not drugs kids
+
+            //make memes not drugs kids //make memes not drugs kids
+            //make memes not drugs kids
+            //make memes not drugs kids
+            //make memes not drugs kids
+            //make memes not drugs kids
+            //make memes not drugs kids
+            //make memes not drugs kids
+            //make memes not drugs kids
+            //make memes not drugs kids
+
+            //make memes not drugs kids
+            //make memes not drugs kids
+
+            //make memes not drugs kids
+
+            //make memes not drugs kids //make memes not drugs kids
+
+            //make memes not drugs kids
+            //make memes not drugs kids
+            //make memes not drugs kids
+            //make memes not drugs kids
+            //make memes not drugs kids
+            //make memes not drugs kids
+            //make memes not drugs kids
         }
     }
 }
